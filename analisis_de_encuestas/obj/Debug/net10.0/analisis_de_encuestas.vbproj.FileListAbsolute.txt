@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\bin\Debug\net10.0\analisis_de_encuestas.exe
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\bin\Debug\net10.0\analisis_de_encuestas.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\bin\Debug\net10.0\analisis_de_encuestas.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\bin\Debug\net10.0\analisis_de_encuestas.dll
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\bin\Debug\net10.0\analisis_de_encuestas.pdb
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\obj\Debug\net10.0\analisis_de_encuestas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\obj\Debug\net10.0\analisis_de_encuestas.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\obj\Debug\net10.0\analisis_de_encuestas.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\obj\Debug\net10.0\analisis_de_encuestas.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\obj\Debug\net10.0\analisis_de_encuestas.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\obj\Debug\net10.0\analisis_de_encuestas.dll
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\obj\Debug\net10.0\refint\analisis_de_encuestas.dll
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\obj\Debug\net10.0\analisis_de_encuestas.pdb
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\obj\Debug\net10.0\analisis_de_encuestas.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\analisis_de_encuestas\analisis_de_encuestas\obj\Debug\net10.0\ref\analisis_de_encuestas.dll
